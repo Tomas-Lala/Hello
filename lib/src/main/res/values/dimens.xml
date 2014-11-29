@@ -1,0 +1,14 @@
+<!--
+  ~ dimens.xml
+  ~
+  ~ @project Hello
+  ~ @package C:/Users/tomas/Projekty/Hello/lib/src/main/res/values/dimens.xml
+  ~ @author eMan s.r.o.
+  ~ @since 29.11.14 23:06
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

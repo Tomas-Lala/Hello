@@ -1,0 +1,15 @@
+<!--
+  ~ menu_lib_activity1.xml
+  ~
+  ~ @project Hello
+  ~ @package C:/Users/tomas/Projekty/Hello/mylibrary/src/main/res/menu/menu_lib_activity1.xml
+  ~ @author eMan s.r.o.
+  ~ @since 29.11.14 23:14
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".LibActivity1">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

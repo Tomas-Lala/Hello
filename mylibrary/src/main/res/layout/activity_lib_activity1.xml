@@ -1,0 +1,18 @@
+<!--
+  ~ activity_lib_activity1.xml
+  ~
+  ~ @project Hello
+  ~ @package C:/Users/tomas/Projekty/Hello/mylibrary/src/main/res/layout/activity_lib_activity1.xml
+  ~ @author eMan s.r.o.
+  ~ @since 29.11.14 23:14
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".LibActivity1">
+
+
+</RelativeLayout>

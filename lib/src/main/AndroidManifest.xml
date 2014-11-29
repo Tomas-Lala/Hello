@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ AndroidManifest.xml
+  ~
+  ~ @project Hello
+  ~ @package C:/Users/tomas/Projekty/Hello/lib/src/main/AndroidManifest.xml
+  ~ @author eMan s.r.o.
+  ~ @since 29.11.14 23:06
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cz.lala.lib" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="cz.lala.lib.LibActivity1"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ strings.xml
+  ~
+  ~ @project Hello
+  ~ @package C:/Users/tomas/Projekty/Hello/lib/src/main/res/values/strings.xml
+  ~ @author eMan s.r.o.
+  ~ @since 29.11.14 23:06
+  -->
+
+<resources>
+
+    <string name="app_name">Lib</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

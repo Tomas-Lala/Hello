@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ strings.xml
+  ~
+  ~ @project Hello
+  ~ @package C:/Users/tomas/Projekty/Hello/mylibrary/src/main/res/values/strings.xml
+  ~ @author eMan s.r.o.
+  ~ @since 29.11.14 23:14
+  -->
+
+<resources>
+
+    <string name="app_name">My Library</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buuton1">KLIKNI KOKOTE</string>
+
+</resources>
